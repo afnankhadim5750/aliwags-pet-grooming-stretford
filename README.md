@@ -1,6 +1,6 @@
 # Aliwags Pet Grooming
 
-Demo website concept for **Aliwags Pet Grooming** — Stretford, UK.
+Demo website concept for **Aliwags Pet Grooming** — Stretford.
 
 Live preview: https://aliwags-pet-grooming-stretford-mockup.netlify.app
 
