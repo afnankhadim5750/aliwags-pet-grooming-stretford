@@ -28,7 +28,7 @@ a{color:inherit}
 
 /* ---------- concept badge ---------- */
 .concept-badge{
-  position:fixed;top:14px;right:14px;z-index:2000;
+  position:fixed;bottom:14px;right:14px;z-index:2000;
   background:var(--forest);color:#fff;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
   padding:8px 16px;border-radius:999px;box-shadow:0 8px 20px -8px rgba(0,0,0,.35);
   display:inline-flex;align-items:center;gap:7px;
